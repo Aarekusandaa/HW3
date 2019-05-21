@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">HW3</string>
+    <string name="MainText">Cover the light senesor to get an answer</string>
+    <string name="Answer">Answer</string>
+    <string-array name="Answers">
+        <item>It is certain.</item>
+        <item>As I see it, yes.</item>
+        <item>Reply hazy, try again.</item>
+        <item>Do not count on it.</item>
+        <item>It is decidedly so.</item>
+        <item>Most likely.</item>
+        <item>Ask again later.</item>
+        <item>My reply is no.</item>
+        <item>Without a doubt.</item>
+        <item>Outlook good.</item>
+        <item>Better not tell you now.</item>
+        <item>My sources say no.</item>
+        <item>Yes - definitely.</item>
+        <item>Yes.</item>
+        <item>Cannot predict now.</item>
+        <item>Outlook not so good.</item>
+        <item>You may rely on it.</item>
+        <item>Signs point to yes.</item>
+        <item>Concentrate and ask again.</item>
+        <item>Very doubtful.</item>
+    </string-array>
+</resources>
